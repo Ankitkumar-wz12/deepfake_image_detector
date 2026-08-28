@@ -102,7 +102,7 @@ The referenced paper proposes a more complex unified detection system (YOLOv5 pr
 
 ## 👤 Author
 
-NAME-Ankit kumar 
+NAME-ANKIT KUMAR 
 
 ## Connect with me 
 linkedIn-https://www.linkedin.com/in/ankit-kumar-490051397/
